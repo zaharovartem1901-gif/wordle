@@ -36,5 +36,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Venix_k2/wordle-desktop.git
+   git clone https://github.com/zaharovartem1901-gif/wordle.git
    cd wordle-desktop
